@@ -1,1 +1,1 @@
-# Mini-Max-Sum2
+# Mini-Max-Sum2 This code calculates the minimum and maximum sums of exactly four out of five integers in a list by first sorting the array and then summing the smallest four for the minimum and the largest four for the maximum. It then prints both sums on a single line.
